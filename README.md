@@ -3,7 +3,7 @@ Projeyi çalıştırmak için node 18 versiyonu kurulmalıdır.
 Frontend projesi için /frontend klasörüne gidilir.
 cd /frontend
 
-Daha sonra projedeki paketlerin kurulumu için aşşağıdaki komut çalıştırılır.
+Daha sonra projedeki paketlerin kurulumu için aşağıdaki komut çalıştırılır.
 npm install
 
 Paketler kurulduktan sonra önyüzü çalıştırmak için aşşağıdaki komut yazılır.
