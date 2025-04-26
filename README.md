@@ -6,7 +6,7 @@ cd /frontend
 Daha sonra projedeki paketlerin kurulumu için aşağıdaki komut çalıştırılır.
 npm install
 
-Paketler kurulduktan sonra önyüzü çalıştırmak için aşşağıdaki komut yazılır.
+Paketler kurulduktan sonra önyüzü çalıştırmak için aşağıdaki komut yazılır.
 npm start
 
 --
@@ -14,10 +14,10 @@ npm start
 Backend projesi için /backend klasörüne gidilir.
 cd /backend
 
-Daha sonra projedeki paketlerin kurulumu için aşşağıdaki komut çalıştırılır.
+Daha sonra projedeki paketlerin kurulumu için aşağıdaki komut çalıştırılır.
 npm install
 
-Paketler kurulduktan sonra backendi çalıştırmak için aşşağıdaki komut yazılır.
+Paketler kurulduktan sonra backendi çalıştırmak için aşağıdaki komut yazılır.
 npm start
 
 --
